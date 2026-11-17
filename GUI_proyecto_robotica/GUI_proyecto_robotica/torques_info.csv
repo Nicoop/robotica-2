@@ -1,0 +1,14 @@
+Parametro,Valor
+Fecha,2026-11-11 23:57:20
+Senal de q,Referencia (qref)
+Carga,Siempre con vaso
+Toma (parada),1
+Suelta (parada),2
+Registro completo,true
+Muestras,429
+Periodo [s],0.0250
+Duracion [s],10.700
+Max |tau_j| q1 q2 q3 [N m],0.0438  0.5128  0.3765
+RMS tau_j q1 q2 q3 [N m],0.0164  0.3965  0.2888
+Max |tau_m| m1 m2 m3 [N m],0.0110  0.0971  0.0922
+RMS tau_m m1 m2 m3 [N m],0.0041  0.0757  0.0660

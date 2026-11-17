@@ -1,0 +1,4 @@
+../Core/Src/storage.c:16:17:cal_crc	2
+../Core/Src/storage.c:27:5:storage_load	3
+../Core/Src/storage.c:37:12:wait_bsy	3
+../Core/Src/storage.c:44:5:storage_save	12

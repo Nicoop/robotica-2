@@ -1,0 +1,16 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Core/Inc/hw.h:12:20:hw_gpio_clk	6
+../Core/Inc/hw.h:38:20:hw_gpio_af	3
+../Core/Inc/hw.h:49:24:hw_irq_save	1
+../Core/Inc/hw.h:56:20:hw_irq_restore	1
+../Core/Inc/hw.h:62:24:hw_pclk1_hz	1
+../Core/Src/comm.c:22:6:comm_init	1
+../Core/Src/comm.c:47:6:USART2_IRQHandler	8
+../Core/Src/comm.c:81:10:comm_lines	1
+../Core/Src/comm.c:86:5:comm_peek	2
+../Core/Src/comm.c:92:5:comm_read_line	6
+../Core/Src/comm.c:108:6:comm_puts	3
+../Core/Src/comm.c:119:10:comm_rx_errors	1
+../Core/Src/comm.c:124:5:comm_overflow	2
